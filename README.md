@@ -49,9 +49,12 @@ _-Veuran publicitat i anuncis de les empreses._
 
 _-Guanyaran insignies i trofeus segons l'ús de l'aplicació._
 
-_-Comptaran amb un sistema d'etiquetat per colors segons el nivell._
-
 _-Hauran de pagar per participar als tornejos._ 
+
+_-Podrán crear máxim cinc tornejos de forma gratuita-_
+
+_-Tindran objectius diaris relacionats amb la interacció de l'aplicació, de forma que explorin totes les funcionalitats i puguin obtenir alguna cosa a canvi.-_
+
 
 __Premium:__
 
@@ -63,11 +66,11 @@ _-No veuran anuncis._
 
 _-Tindran accés gratuït a x tornejos._ 
 
-_-Comptaran amb la funcionalitat de crear tornejos._
+_-Comptaran amb la funcionalitat de crear tornejos de forma ilimitada entre amics i desconeguts, de forma no oficial._
 
 _-Tindran un marc diferent als dels altres usuaris que els distingeixi com a premium._
 
-_-Hi haurà un subtipus de perfil que serà voluntari i moderarà els fòrums._
+_-Hi haurà un subtipus de perfil que serà voluntari i moderarà els fòrums. Es contempla donar-los com a recompensa alguna funcionalitat gratuïta._
 
 ### Usuari empresa
 
@@ -75,15 +78,18 @@ _-Tindran un perfil verificat creat pels desenvolupadors._
 
 _-Tindran accés al usuaris jugadors per a comunicar-se amb ells i fer-lis arribar les seves novetats._ 
 
-_-Tindran un espai propi dintre dels fòrums._ 
+_-Podran fer algunes publicacions als fòrums patrocinades, per dispossar d'aquest avantatge hauran de pagar una quota._ 
 
-_-Tindran l'opció d'afegir publicitat a canvi de pagar una peita cuota mensual, trimestral o anual._ 
+_-Tindran l'opció d'afegir publicitat a canvi de pagar una quota mensual, trimestral o anual._ 
 
 ### Usuari desenvolupador
 
 _-Tindran accés a tot._
 
 _-S'encarregaran de mantenir l'aplicació i publicar les novetats als fòrums o apartats de noticies._
+
+
+_-Totes les funcionalitats premium estan pensades per fer un únic pagament i que sigui significatiu.
 
 
 
